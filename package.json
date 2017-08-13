@@ -1,0 +1,10 @@
+{
+  "name": "cdp-M5.5-requests",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "node request.js"
+  },
+  "dependencies": {
+    "request-promise": "^4.2.1"
+  }
+}
